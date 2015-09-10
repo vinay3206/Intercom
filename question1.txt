@@ -1,0 +1,5 @@
+few things that am proud off.
+
+1. i wrote a gulp-ember autolocalization plugin which parses your handlebars templates and add localization helper to them. Before this it is used to very tedious and boring task to add localization helper to each and every text in file. this really saves a lot of time and make development faster.
+
+2. In my first company we moved a lot of server side code written on ASP.NET to the cleint side which improved a lot of performance for the product and we moved towards move conventional way of wrtiting code so that we can maintain our growing javascript code.
